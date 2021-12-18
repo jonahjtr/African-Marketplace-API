@@ -1,6 +1,8 @@
 # african marketplace
 
-build week African marketplace endpoints:
+API for another project:
+
+African marketplace endpoints:
 USERS:
 api/users/register [POST] create a user \*\* pass in "role" as owner or else role will be automatically user  
  api/users/login [POST] login
