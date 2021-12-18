@@ -1,4 +1,4 @@
-# african marketplace
+# African marketplace
 
 API for another project:
 
